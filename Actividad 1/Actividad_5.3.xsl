@@ -10,8 +10,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
             <th>Titulo</th>
             <th>Autor</th>
         </tr>
-        <xsl:for-each select="libreria/libro">
-        <xsl:if test="precio&gt;10">
+        <xsl:for-each select="libreria/libro[autor='Ken Follet']">
+        <!--xsl:if test="precio&gt;10"-->
+        <xsl:if test="precio&gt;12">
         <tr>
             <td><xsl:value-of select="titulo"/></td>
             <td><xsl:value-of select="autor"/></td>
