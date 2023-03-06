@@ -19,7 +19,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
                     <td align="center"><xsl:value-of select="artista"/></td>
                     <td align="center">
                         <xsl:for-each select="cancion">
-                            <xsl:if test="@duracion &lt; 03:00">
+                            <xsl:if test="@duracion &lt; 03:00" dataType="time">
                                 <xsl:value-of select="."/>
                                 <br/>
                             </xsl:if>
