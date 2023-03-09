@@ -4,54 +4,54 @@
     <album>
         <titulo>Meteora</titulo>
         <artista>Linkin Park</artista>
-        <cancion duracion="00:13">Foreword</cancion>
-        <cancion duracion="03:07">Don't Stay</cancion>
-        <cancion duracion="03:33">Somewhere I Belong</cancion>
-        <cancion duracion="02:55">Lying from You</cancion>
-        <cancion duracion="02:44">Hit the Floor</cancion>
-        <cancion duracion="03:24">Easier to Run</cancion>
-        <cancion duracion="02:45">Faint</cancion>
-        <cancion duracion="03:17">Figure.09</cancion>
-        <cancion duracion="03:16">Breaking the Habit</cancion>
-        <cancion duracion="02:53">From the Inside</cancion>
-        <cancion duracion="02:58">Nobody's Listening</cancion>
-        <cancion duracion="02:23">Session</cancion>
-        <cancion duracion="03:08">Numb</cancion>
+        <cancion duracion="13">Foreword</cancion>
+        <cancion duracion="184">Don't Stay</cancion>
+        <cancion duracion="199">Somewhere I Belong</cancion>
+        <cancion duracion="153">Lying from You</cancion>
+        <cancion duracion="146">Hit the Floor</cancion>
+        <cancion duracion="204">Easier to Run</cancion>
+        <cancion duracion="165">Faint</cancion>
+        <cancion duracion="197">Figure.09</cancion>
+        <cancion duracion="196">Breaking the Habit</cancion>
+        <cancion duracion="173">From the Inside</cancion>
+        <cancion duracion="176">Nobody's Listening</cancion>
+        <cancion duracion="143">Session</cancion>
+        <cancion duracion="188">Numb</cancion>
         <sello_disc>Warner Bros. Records</sello_disc>
         <anio_publi>2003</anio_publi>
     </album>
     <album>
         <titulo>Hybrid Theory</titulo>
         <artista>Linkin Park</artista>
-        <cancion duracion="03:05">Papercut</cancion>
-        <cancion duracion="02:35">One Step Closer</cancion>
-        <cancion duracion="03:23">With You</cancion>
-        <cancion duracion="03:20">Points of Authority</cancion>
-        <cancion duracion="03:29">Crawling</cancion>
-        <cancion duracion="03:04">Runaway</cancion>
-        <cancion duracion="03:10">By Myself</cancion>
-        <cancion duracion="03:36">In The End</cancion>
-        <cancion duracion="03:04">A Place for My Head</cancion>
-        <cancion duracion="03:14">Forgotten</cancion>
-        <cancion duracion="02:37">Cure for the itch</cancion>
-        <cancion duracion="03:11">Pushing Me Away</cancion>
+        <cancion duracion="185">Papercut</cancion>
+        <cancion duracion="155">One Step Closer</cancion>
+        <cancion duracion="203">With You</cancion>
+        <cancion duracion="200">Points of Authority</cancion>
+        <cancion duracion="209">Crawling</cancion>
+        <cancion duracion="184">Runaway</cancion>
+        <cancion duracion="190">By Myself</cancion>
+        <cancion duracion="216">In The End</cancion>
+        <cancion duracion="184">A Place for My Head</cancion>
+        <cancion duracion="194">Forgotten</cancion>
+        <cancion duracion="157">Cure for the itch</cancion>
+        <cancion duracion="191">Pushing Me Away</cancion>
         <sello_disc>Warner Bros.</sello_disc>
         <anio_publi>2000</anio_publi>
     </album>
     <album>
         <titulo>Sempiternal</titulo>
         <artista>Bring Me the Horizon</artista>
-        <cancion duracion="03:47">Can You Feel My Heart</cancion>
-        <cancion duracion="03:25">The House of Wolves</cancion>
-        <cancion duracion="03:45">Empire (Let Them Sing)</cancion>
-        <cancion duracion="03:50">Sleepwalking</cancion>
-        <cancion duracion="04:02">Go to Hell, for Heaven's Sake</cancion>
-        <cancion duracion="04:03">Shadow Moses</cancion>
-        <cancion duracion="05:01">And the Snakes Start to Sing</cancion>
-        <cancion duracion="04:07">Seen it All Before</cancion>
-        <cancion duracion="03:13">Antivist</cancion>
-        <cancion duracion="03:34">Crooked Young</cancion>
-        <cancion duracion="06:44">Hosppital for Souls</cancion>
+        <cancion duracion="227">Can You Feel My Heart</cancion>
+        <cancion duracion="205">The House of Wolves</cancion>
+        <cancion duracion="225">Empire (Let Them Sing)</cancion>
+        <cancion duracion="230">Sleepwalking</cancion>
+        <cancion duracion="242">Go to Hell, for Heaven's Sake</cancion>
+        <cancion duracion="243">Shadow Moses</cancion>
+        <cancion duracion="301">And the Snakes Start to Sing</cancion>
+        <cancion duracion="247">Seen it All Before</cancion>
+        <cancion duracion="193">Antivist</cancion>
+        <cancion duracion="214">Crooked Young</cancion>
+        <cancion duracion="404">Hosppital for Souls</cancion>
         <sello_disc>Sony Music Entertainment</sello_disc>
         <sello_disc>RCA Records</sello_disc>
         <sello_disc>Epitaph Records</sello_disc>
@@ -60,22 +60,22 @@
     <album>
         <titulo>Homework</titulo>
         <artista>Daft Punk</artista>
-        <cancion duracion="02:44">Daftendirekt</cancion>
-        <cancion duracion="00:28">WDPK 83.7 FM</cancion>
-        <cancion duracion="05:26">Revolution 909</cancion>
-        <cancion duracion="05:28">Da Funk</cancion>
-        <cancion duracion="04:55">Phoenix</cancion>
-        <cancion duracion="04:03">Fresh</cancion>
-        <cancion duracion="07:07">Around the World</cancion>
-        <cancion duracion="07:26">Rollin' And Scratchin'</cancion>
-        <cancion duracion="02:52">Teachers</cancion>
-        <cancion duracion="06:00">High Fidelity</cancion>
-        <cancion duracion="07:32">Rock'n Roll</cancion>
-        <cancion duracion="02:00">Oh Yeah</cancion>
-        <cancion duracion="06:53">Burnin'</cancion>
-        <cancion duracion="04:32">Indo Silver Club</cancion>
-        <cancion duracion="05:15">Alive</cancion>
-        <cancion duracion="00:50">Funk Ad</cancion>
+        <cancion duracion="164">Daftendirekt</cancion>
+        <cancion duracion="28">WDPK 83.7 FM</cancion>
+        <cancion duracion="326">Revolution 909</cancion>
+        <cancion duracion="328">Da Funk</cancion>
+        <cancion duracion="295">Phoenix</cancion>
+        <cancion duracion="243">Fresh</cancion>
+        <cancion duracion="420">Around the World</cancion>
+        <cancion duracion="446">Rollin' And Scratchin'</cancion>
+        <cancion duracion="172">Teachers</cancion>
+        <cancion duracion="360">High Fidelity</cancion>
+        <cancion duracion="452">Rock'n Roll</cancion>
+        <cancion duracion="120">Oh Yeah</cancion>
+        <cancion duracion="413">Burnin'</cancion>
+        <cancion duracion="272">Indo Silver Club</cancion>
+        <cancion duracion="300">Alive</cancion>
+        <cancion duracion="50">Funk Ad</cancion>
         <sello_disc>Virgin</sello_disc>
         <sello_disc>Soma</sello_disc>
         <anio_publi>1997</anio_publi>
@@ -83,87 +83,87 @@
     <album>
         <titulo>Discovery</titulo>
         <artista>Daft Punk</artista>
-        <cancion duracion="05:20">One More Time</cancion>
-        <cancion duracion="03:30">Aerodynamic</cancion>
-        <cancion duracion="04:58">Digital Love</cancion>
-        <cancion duracion="03:44">Harder, Better, Faster, Stronger</cancion>
-        <cancion duracion="03:29">Crescendolls</cancion>
-        <cancion duracion="01:44">Nightvision</cancion>
-        <cancion duracion="03:56">Superhéroes</cancion>
-        <cancion duracion="03:20">High Life</cancion>
-        <cancion duracion="03:51">Something About Us</cancion>
-        <cancion duracion="03:47">Voyager</cancion>
-        <cancion duracion="05:45">Veridis Quo</cancion>
-        <cancion duracion="03:25">Short Circuit</cancion>
-        <cancion duracion="03:59">Face to Face</cancion>
-        <cancion duracion="10:00">Too Long</cancion>
+        <cancion duracion="320">One More Time</cancion>
+        <cancion duracion="210">Aerodynamic</cancion>
+        <cancion duracion="298">Digital Love</cancion>
+        <cancion duracion="224">Harder, Better, Faster, Stronger</cancion>
+        <cancion duracion="209">Crescendolls</cancion>
+        <cancion duracion="106">Nightvision</cancion>
+        <cancion duracion="236">Superhéroes</cancion>
+        <cancion duracion="200">High Life</cancion>
+        <cancion duracion="231">Something About Us</cancion>
+        <cancion duracion="227">Voyager</cancion>
+        <cancion duracion="345">Veridis Quo</cancion>
+        <cancion duracion="205">Short Circuit</cancion>
+        <cancion duracion="239">Face to Face</cancion>
+        <cancion duracion="600">Too Long</cancion>
         <sello_disc>Virgin</sello_disc>
         <anio_publi>2001</anio_publi>
     </album>
     <album>
         <titulo>Random Access Memories</titulo>
         <artista>Daft Punk</artista>
-        <cancion duracion="04:34">Give Life Back to Music</cancion>
-        <cancion duracion="05:21">The Game of Love</cancion>
-        <cancion duracion="09:04">Giorgio by Moroder</cancion>
-        <cancion duracion="03:48">Within</cancion>
-        <cancion duracion="05:37">Instant Crush</cancion>
-        <cancion duracion="05:53">Lose Yourself to Dance</cancion>
-        <cancion duracion="08:18">Touch</cancion>
-        <cancion duracion="06:08">Get Lucky</cancion>
-        <cancion duracion="04:50">Beyond</cancion>
-        <cancion duracion="05:41">Motherboard</cancion>
-        <cancion duracion="04:39">Fragments of Time</cancion>
-        <cancion duracion="04:11">Doin' It Right</cancion>
-        <cancion duracion="06:21">Contact</cancion>
+        <cancion duracion="274">Give Life Back to Music</cancion>
+        <cancion duracion="321">The Game of Love</cancion>
+        <cancion duracion="544">Giorgio by Moroder</cancion>
+        <cancion duracion="228">Within</cancion>
+        <cancion duracion="337">Instant Crush</cancion>
+        <cancion duracion="353">Lose Yourself to Dance</cancion>
+        <cancion duracion="498">Touch</cancion>
+        <cancion duracion="368">Get Lucky</cancion>
+        <cancion duracion="290">Beyond</cancion>
+        <cancion duracion="341">Motherboard</cancion>
+        <cancion duracion="279">Fragments of Time</cancion>
+        <cancion duracion="251">Doin' It Right</cancion>
+        <cancion duracion="381">Contact</cancion>
         <sello_disc>Columbia Records</sello_disc>
         <anio_publi>2013</anio_publi>
     </album>
     <album>
         <titulo>Led Zeppelin II</titulo>
         <artista>Led Zeppelin</artista>
-        <cancion duracion="05:34">Whole Lotta Love</cancion>
-        <cancion duracion="04:46">What Is and What Should Never Be</cancion>
-        <cancion duracion="06:20">The Lemon Song</cancion>
-        <cancion duracion="04:50">Thank You</cancion>
-        <cancion duracion="04:14">Heartbreaker</cancion>
-        <cancion duracion="02:39">Living Loving Maid</cancion>
-        <cancion duracion="04:34">Ramble On</cancion>
-        <cancion duracion="04:20">Moby Dick</cancion>
-        <cancion duracion="04:18">Bring It on Home</cancion>
+        <cancion duracion="334">Whole Lotta Love</cancion>
+        <cancion duracion="286">What Is and What Should Never Be</cancion>
+        <cancion duracion="380">The Lemon Song</cancion>
+        <cancion duracion="290">Thank You</cancion>
+        <cancion duracion="254">Heartbreaker</cancion>
+        <cancion duracion="159">Living Loving Maid</cancion>
+        <cancion duracion="274">Ramble On</cancion>
+        <cancion duracion="260">Moby Dick</cancion>
+        <cancion duracion="258">Bring It on Home</cancion>
         <sello_disc>Atlantic Records</sello_disc>
         <anio_publi>1969</anio_publi>
     </album>
     <album>
         <titulo>Led Zeppelin III</titulo>
         <artista>Led Zeppelin</artista>
-        <cancion duracion="02:24">Immigrant Song</cancion>
-        <cancion duracion="03:54">Friends</cancion>
-        <cancion duracion="03:30">Celebration Day</cancion>
-        <cancion duracion="07:23">Since I've Been Loving You</cancion>
-        <cancion duracion="04:07">Out on the Tiles</cancion>
-        <cancion duracion="05:00">Gallows Pole</cancion>
-        <cancion duracion="03:11">Tangerine</cancion>
-        <cancion duracion="05:40">That's the Way</cancion>
-        <cancion duracion="04:17">Bron-Y-Aur Stomp</cancion>
-        <cancion duracion="03:40">Hats Off to (Roy) Harper</cancion>
+        <cancion duracion="135">Immigrant Song</cancion>
+        <cancion duracion="236">Friends</cancion>
+        <cancion duracion="410">Celebration Day</cancion>
+        <cancion duracion="430">Since I've Been Loving You</cancion>
+        <cancion duracion="240">Out on the Tiles</cancion>
+        <cancion duracion="300">Gallows Pole</cancion>
+        <cancion duracion="191">Tangerine</cancion>
+        <cancion duracion="360">That's the Way</cancion>
+        <cancion duracion="25">Bron-Y-Aur Stomp</cancion>
+        <cancion duracion="220">Hats Off to (Roy) Harper</cancion>
         <sello_disc>Atlantic Records</sello_disc>
         <anio_publi>1970</anio_publi>
     </album>
     <album>
         <titulo>The Doors</titulo>
         <artista>The Doors</artista>
-        <cancion duracion="02:25">Break On Through</cancion>
-        <cancion duracion="03:33">Soul Kitchen</cancion>
-        <cancion duracion="02:32">The Crystal Ship</cancion>
-        <cancion duracion="02:31">Twentieth Century Fox</cancion>
-        <cancion duracion="03:17">Alabama Song (Whisky Bar)</cancion>
-        <cancion duracion="07:09">Light My Fire</cancion>
-        <cancion duracion="03:32">Back Door Man</cancion>
-        <cancion duracion="02:20">I Looked At You</cancion>
-        <cancion duracion="02:50">End Of The Night</cancion>
-        <cancion duracion="02:14">Take It As It Comes</cancion>
-        <cancion duracion="11:43">The End</cancion>
+        <cancion duracion="137">Break On Through</cancion>
+        <cancion duracion="199">Soul Kitchen</cancion>
+        <cancion duracion="140">The Crystal Ship</cancion>
+        <cancion duracion="145">Twentieth Century Fox</cancion>
+        <cancion duracion="190">Alabama Song (Whisky Bar)</cancion>
+        <cancion duracion="425">Light My Fire</cancion>
+        <cancion duracion="199">Back Door Man</cancion>
+        <cancion duracion="132">I Looked At You</cancion>
+        <cancion duracion="150">End Of The Night</cancion>
+        <cancion duracion="128">Take It As It Comes</cancion>
+        <cancion duracion="686">The End</cancion>
         <sello_disc>Elektra Records</sello_disc>
         <sello_disc>Warner Music Group</sello_disc>
         <anio_publi>1967</anio_publi>
@@ -171,11 +171,11 @@
     <album>
         <titulo>In the Court of the Crimson King</titulo>
         <artista>King Crimson</artista>
-        <cancion duracion="07:24">21st Century Schizoid Man/Mirrors</cancion>
-        <cancion duracion="06:04">I Talk to the Wind</cancion>
-        <cancion duracion="08:49">Epitaph</cancion>
-        <cancion duracion="12:13">Moonchild</cancion>
-        <cancion duracion="09:26">The Court of the Crimson King</cancion>
+        <cancion duracion="434">21st Century Schizoid Man/Mirrors</cancion>
+        <cancion duracion="360">I Talk to the Wind</cancion>
+        <cancion duracion="509">Epitaph</cancion>
+        <cancion duracion="730">Moonchild</cancion>
+        <cancion duracion="556">The Court of the Crimson King</cancion>
         <sello_disc>Island Records</sello_disc>
         <sello_disc>Atlantic Records</sello_disc>
         <annio_publi>1969</annio_publi>
